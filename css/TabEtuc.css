@@ -3,6 +3,9 @@
   font-weight: 700;
   src: url(https://raw.github.com/Tab-Etuc/Tab-Etuc.github.io/gh-pages/css/SourceHanSansTW-VF.otf.woff2);
 }
+body {
+  font-family: SourceHanSans;
+}
 #footer:before,
 #page-header:before,
 #web_bg:before {
