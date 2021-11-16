@@ -1317,7 +1317,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #99a9bf;
+  --btn-hover-color: #79a8e8;
   --btn-color: #fff;
   --btn-bg: #33739d;
   --text-bg-hover: rgba(51,115,157,0.7);
@@ -2060,7 +2060,7 @@ blockquote footer cite:before {
   font-size: 1.72em;
 }
 .article-sort-title:hover:before {
-  border-color: #99a9bf;
+  border-color: #79a8e8;
 }
 .article-sort-title:before {
   position: absolute;
@@ -2112,7 +2112,7 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 .article-sort-item:hover:before {
-  border-color: #99a9bf;
+  border-color: #79a8e8;
 }
 .article-sort-item:before {
   position: absolute;
@@ -2142,7 +2142,7 @@ blockquote footer cite:before {
   border-color: #33739d;
 }
 .article-sort-item.year:before {
-  border-color: #99a9bf;
+  border-color: #79a8e8;
 }
 .article-sort-item-time {
   color: #858585;
@@ -2266,7 +2266,7 @@ blockquote footer cite:before {
   content: '';
 }
 #page .category-lists ul li:hover:before {
-  border-color: #99a9bf;
+  border-color: #79a8e8;
 }
 #body-wrap {
   display: -webkit-box;
@@ -4384,7 +4384,7 @@ blockquote footer cite:before {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #2481ff;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -4605,7 +4605,7 @@ blockquote footer cite:before {
   padding: 0.2em 0.2em 0.2em 1.4em;
 }
 #article-container ul > li:not(.tab):hover:before {
-  border-color: #99a9bf;
+  border-color: #79a8e8;
 }
 #article-container ul > li:not(.tab):before {
   top: 0.78em;
@@ -5049,7 +5049,7 @@ blockquote footer cite:before {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #33739d;
-  --waline-active-color: #99a9bf;
+  --waline-active-color: #79a8e8;
   --waline-avatar-size: 2.75rem;
 }
 #waline-wrap .vuser {
